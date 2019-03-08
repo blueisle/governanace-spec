@@ -309,7 +309,7 @@
         "id": 2576,
         "nodeType": "ImportDirective",
         "scope": 2735,
-        "sourceUnit": 7103,
+        "sourceUnit": 7127,
         "src": "26:63:4",
         "symbolAliases": [],
         "unitAlias": ""
@@ -323,10 +323,10 @@
               "id": 2577,
               "name": "Ownable",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 7102,
+              "referencedDeclaration": 7126,
               "src": "423:7:4",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_Ownable_$7102",
+                "typeIdentifier": "t_contract$_Ownable_$7126",
                 "typeString": "contract Ownable"
               }
             },
@@ -336,7 +336,7 @@
           }
         ],
         "contractDependencies": [
-          7102
+          7126
         ],
         "contractKind": "contract",
         "documentation": "@title Registry\n@dev Registry Contract used to set domain and permission\nThe contracts used by the permissioned user in ShowMe references permission in this contract.\nNot only contract address but also general address can be set in this contract.\nOwner should set domain and permission.",
@@ -344,7 +344,7 @@
         "id": 2734,
         "linearizedBaseContracts": [
           2734,
-          7102
+          7126
         ],
         "name": "Registry",
         "nodeType": "ContractDefinition",
@@ -851,10 +851,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        7151,
-                        7152
+                        7175,
+                        7176
                       ],
-                      "referencedDeclaration": 7152,
+                      "referencedDeclaration": 7176,
                       "src": "1203:7:4",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
@@ -983,7 +983,7 @@
                         "name": "block",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 7138,
+                        "referencedDeclaration": 7162,
                         "src": "1323:5:4",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_block",
@@ -1026,7 +1026,7 @@
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 7148,
+                          "referencedDeclaration": 7172,
                           "src": "1368:3:4",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
@@ -1159,7 +1159,7 @@
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 7036,
+                  "referencedDeclaration": 7060,
                   "src": "1160:9:4",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
@@ -1430,10 +1430,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        7151,
-                        7152
+                        7175,
+                        7176
                       ],
-                      "referencedDeclaration": 7152,
+                      "referencedDeclaration": 7176,
                       "src": "1697:7:4",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
@@ -1719,10 +1719,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        7151,
-                        7152
+                        7175,
+                        7176
                       ],
-                      "referencedDeclaration": 7152,
+                      "referencedDeclaration": 7176,
                       "src": "2354:7:4",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
@@ -1878,7 +1878,7 @@
                         "name": "block",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 7138,
+                        "referencedDeclaration": 7162,
                         "src": "2495:5:4",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_block",
@@ -2038,7 +2038,7 @@
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 7036,
+                  "referencedDeclaration": 7060,
                   "src": "2311:9:4",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
@@ -2398,7 +2398,7 @@
         "id": 2576,
         "nodeType": "ImportDirective",
         "scope": 2735,
-        "sourceUnit": 7103,
+        "sourceUnit": 7127,
         "src": "26:63:4",
         "symbolAliases": [],
         "unitAlias": ""
@@ -2412,10 +2412,10 @@
               "id": 2577,
               "name": "Ownable",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 7102,
+              "referencedDeclaration": 7126,
               "src": "423:7:4",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_Ownable_$7102",
+                "typeIdentifier": "t_contract$_Ownable_$7126",
                 "typeString": "contract Ownable"
               }
             },
@@ -2425,7 +2425,7 @@
           }
         ],
         "contractDependencies": [
-          7102
+          7126
         ],
         "contractKind": "contract",
         "documentation": "@title Registry\n@dev Registry Contract used to set domain and permission\nThe contracts used by the permissioned user in ShowMe references permission in this contract.\nNot only contract address but also general address can be set in this contract.\nOwner should set domain and permission.",
@@ -2433,7 +2433,7 @@
         "id": 2734,
         "linearizedBaseContracts": [
           2734,
-          7102
+          7126
         ],
         "name": "Registry",
         "nodeType": "ContractDefinition",
@@ -2940,10 +2940,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        7151,
-                        7152
+                        7175,
+                        7176
                       ],
-                      "referencedDeclaration": 7152,
+                      "referencedDeclaration": 7176,
                       "src": "1203:7:4",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
@@ -3072,7 +3072,7 @@
                         "name": "block",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 7138,
+                        "referencedDeclaration": 7162,
                         "src": "1323:5:4",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_block",
@@ -3115,7 +3115,7 @@
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 7148,
+                          "referencedDeclaration": 7172,
                           "src": "1368:3:4",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
@@ -3248,7 +3248,7 @@
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 7036,
+                  "referencedDeclaration": 7060,
                   "src": "1160:9:4",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
@@ -3519,10 +3519,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        7151,
-                        7152
+                        7175,
+                        7176
                       ],
-                      "referencedDeclaration": 7152,
+                      "referencedDeclaration": 7176,
                       "src": "1697:7:4",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
@@ -3808,10 +3808,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        7151,
-                        7152
+                        7175,
+                        7176
                       ],
-                      "referencedDeclaration": 7152,
+                      "referencedDeclaration": 7176,
                       "src": "2354:7:4",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
@@ -3967,7 +3967,7 @@
                         "name": "block",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 7138,
+                        "referencedDeclaration": 7162,
                         "src": "2495:5:4",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_block",
@@ -4127,7 +4127,7 @@
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 7036,
+                  "referencedDeclaration": 7060,
                   "src": "2311:9:4",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
@@ -4530,146 +4530,10 @@
         }
       },
       "links": {},
-      "address": "0xe659b917c3511bc8756379cebdeed35eebc8fc89",
-      "transactionHash": "0xc4b561528ef783fb61657382a14a42572048cdd5f19e2d1ac1bde66f2e919dbe"
-    },
-    "1551768943168": {
-      "events": {
-        "0x37724a4a9968ac9654e6ee52f3d0c93e5ef8863e057254ee2e36e8ad3e8429db": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": false,
-              "name": "setter",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "name": "name",
-              "type": "bytes32"
-            },
-            {
-              "indexed": true,
-              "name": "addr",
-              "type": "address"
-            }
-          ],
-          "name": "SetContractDomain",
-          "type": "event"
-        },
-        "0xe9f5231bbfb4b32867755b94562215cff6c8998489de8ba20926f8d0980e7818": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "name": "_contract",
-              "type": "bytes32"
-            },
-            {
-              "indexed": true,
-              "name": "granted",
-              "type": "address"
-            },
-            {
-              "indexed": false,
-              "name": "status",
-              "type": "bool"
-            }
-          ],
-          "name": "SetPermission",
-          "type": "event"
-        },
-        "0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "name": "previousOwner",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "name": "newOwner",
-              "type": "address"
-            }
-          ],
-          "name": "OwnershipTransferred",
-          "type": "event"
-        }
-      },
-      "links": {},
-      "address": "0xf4dc68f5623c5e69558be5e76b6c3a2a2949339c",
-      "transactionHash": "0x3f615a09c6571eb883f98efcedf5bf872d2b27f61ca98bdf9b2f2162c874c9e2"
-    },
-    "1551785450959": {
-      "events": {
-        "0x37724a4a9968ac9654e6ee52f3d0c93e5ef8863e057254ee2e36e8ad3e8429db": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": false,
-              "name": "setter",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "name": "name",
-              "type": "bytes32"
-            },
-            {
-              "indexed": true,
-              "name": "addr",
-              "type": "address"
-            }
-          ],
-          "name": "SetContractDomain",
-          "type": "event"
-        },
-        "0xe9f5231bbfb4b32867755b94562215cff6c8998489de8ba20926f8d0980e7818": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "name": "_contract",
-              "type": "bytes32"
-            },
-            {
-              "indexed": true,
-              "name": "granted",
-              "type": "address"
-            },
-            {
-              "indexed": false,
-              "name": "status",
-              "type": "bool"
-            }
-          ],
-          "name": "SetPermission",
-          "type": "event"
-        },
-        "0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "name": "previousOwner",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "name": "newOwner",
-              "type": "address"
-            }
-          ],
-          "name": "OwnershipTransferred",
-          "type": "event"
-        }
-      },
-      "links": {},
-      "address": "0x0df8d17a63c2e0f89f022541e3cd2b07dcd6b7d1",
-      "transactionHash": "0x49b5de3cd946bd1303935f08e09fd6c150d658bc218ff08123be7015a38fc20b"
+      "address": "0x6a3357da1d4a2e85ccde5f47aec6f25c5eebe8de",
+      "transactionHash": "0x912c3183450084109f04b04d07d1fa8168012b3d6c7bffbc988b9c6c5024aad2"
     }
   },
   "schemaVersion": "2.0.1",
-  "updatedAt": "2019-03-07T08:01:08.658Z"
+  "updatedAt": "2019-03-08T03:37:48.165Z"
 }
